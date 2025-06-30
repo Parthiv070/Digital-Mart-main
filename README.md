@@ -29,7 +29,7 @@ MongoDB
 Installation
 
 Clone the repository:
-git clone https://github.com/ajaysinh1904/Digital-Mart.git
+git clone https://github.com/Parthiv070/Digital-Mart.git
 Navigate to the project directory:
 
 cd Digital-Mart
@@ -52,6 +52,6 @@ npm run start
 Open your browser and navigate to http://localhost:3000 to see the application in action.
 
 Contact:
-Ajay Dodiya - ajaydodiya375@gmail.com
+Parthiv Chudasama - parthivchudasama5@gmail.com
 
-Project Link: https://github.com/ajaysinh1904/Digital-Mart
+Project Link: https://github.com/Parthiv070/Digital-Mart-main
